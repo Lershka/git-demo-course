@@ -2,4 +2,18 @@ KB KRUTOO
 VERY KRUTOO
 famcs !!!
 !famcscscs!
+<<<<<<< HEAD
 --------------------------------------------------------------------------
+=======
+
+KB KRUTOO
+VERY KRUTOO
+famcs !!!
+!famcscscs!
+
+KB KRUTOO
+VERY KRUTOO
+famcs !!!
+!famcscscs!
+
+>>>>>>> parent of 6ee1720 (NEW COMPLECT)
